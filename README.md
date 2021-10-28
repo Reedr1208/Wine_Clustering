@@ -1,5 +1,5 @@
 # Wine Clustering
-Original personal project in which unsupervised machine learning techniques are used to cluster red and white wines based on several physical-chemical metrics using a dataset available through Kaggle
-Wine_Clustering_Project.html contains an html version of the jupyter notebook
-Wine_Clustering_Project.ipynb is the jupyter notebook used in this project (uses python 2.7)
-winequality-red.csv and winequality-white.csv are the datasets used in this project
+
+Using a Kaggle dataset, I apply unsupervised learning methods to segment wines into groups based on their physical-chemical properties.
+
+Kaggle users typically used this dataset to predict wine color via supervised learning methods. I was more interested in whether clustering algorithms would naturally group wines by color and what kind of sub-categories would be found within the red and white wine groups respectively. Wine drinkers use an elaborate taxonomy to classify their favorite wines, but will a machine learning algorithm categorize wines similarly?
